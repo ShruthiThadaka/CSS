@@ -1,0 +1,62 @@
+*{
+    width: calc(100%-30%);
+   
+}
+body{
+    background-color: bisque;
+}
+div{
+    display: inline-block;  
+    padding-left: 100px;
+    
+}
+.div1{
+    padding-right: 400px;
+}
+#a1,#a2,#a3,#a4,#a5,#a6,#a7{
+    padding: 20px;
+    float: right;
+}
+#td1,#td2{
+    padding: 40px 100px 80px 100px;
+}
+table{
+    margin: auto;
+    background-color: white;
+}
+.table2{
+    padding: 0px 107px 0px 107px
+}
+#img1,#img2,#img3,#img4,#img5,#img6{
+    padding: 30px;
+}
+button{
+    width: 150px;
+    height: 45px;
+    background-color: white;
+    border: 2px solid maroon;
+    color: firebrick;
+}
+footer{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+input{
+    border: none;
+    text-decoration: underline;
+    height: 40px;
+}
+#b1{
+    background-color: black;
+    border: none;
+    color: white;
+}
+#td3{
+    padding-left: 100px;
+}
+h2{
+    font-size:40px;
+}
